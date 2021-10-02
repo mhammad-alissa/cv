@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(235, 203, 164);
+   
+}
+div.p,div,p,ul,ol{
+    padding: 10px;
+    
+}
+
+.header {
+background-color: white;
+width: 758px;
+ margin: auto;
+margin-top: 90px;
+border-radius: 15px;
+}
+button {
+    color:white;
+    background-color: rgb(77, 77, 255);
+    border: none;
+    border-radius: 5px;
+    padding: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+.vv {
+    padding-bottom: 20px;
+}
+ul,ol,li,p,div {
+    padding-left: 25px;
+    background-color: white;
+}
+footer {
+    background-color: rgb(235, 203, 164);
+    color: white;
+    width: 800px;
+    margin: auto;
+    margin-top: 30px;
+    text-align: center;
+
+}
+q {
+    color: rgb(253, 6, 6);
+}
